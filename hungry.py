@@ -5,3 +5,4 @@ if (x == 'yes'):
 
 else:
 	print("Do your Home work")
+	print("And study hard & Do the learning")
